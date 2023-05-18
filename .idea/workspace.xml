@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90691b1c-edec-43f8-952d-ef0d7ff9d2a2" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/hw1/topic1/Problem3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw1/topic1/Problem4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw1/topic2/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw1/topic3/T3P1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Note/hw1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Note/hw1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw1/topic1/Problem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw1/topic1/Problem1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw1/topic1/Problem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw1/topic1/Problem2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw1/topic1/Problem3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw1/topic1/Problem3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Problem2">
+  <component name="RunManager" selected="Application.MyClass">
+    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw1.topic2.MyClass" />
+      <module name="SSITraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw1.topic2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Problem1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hw1.topic1.Problem1" />
       <module name="SSITraining" />
@@ -90,11 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw1.topic1.Problem4" />
+      <module name="SSITraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw1.topic1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyClass" />
+        <item itemvalue="Application.Problem4" />
+        <item itemvalue="Application.Problem3" />
         <item itemvalue="Application.Problem2" />
         <item itemvalue="Application.Problem1" />
-        <item itemvalue="Application.Problem3" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +135,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684352863401</updated>
-      <workItem from="1684352864857" duration="7082000" />
+      <workItem from="1684352864857" duration="14043000" />
     </task>
     <task id="LOCAL-00001" summary="created a new repo">
       <created>1684353013690</created>
@@ -122,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684356726386</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1684361427032</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684361427032</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
