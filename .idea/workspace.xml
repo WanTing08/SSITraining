@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90691b1c-edec-43f8-952d-ef0d7ff9d2a2" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/src/hw1/topic5/AppleDesignerFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw1/topic3/T3P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw1/topic3/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Note/hw1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Note/hw1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw1/topic3/BookSeller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw1/topic3/BookSeller.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +133,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684352863401</updated>
-      <workItem from="1684352864857" duration="20135000" />
+      <workItem from="1684352864857" duration="23499000" />
     </task>
     <task id="LOCAL-00001" summary="created a new repo">
       <created>1684353013690</created>
@@ -168,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684552184909</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update">
+      <created>1684553723598</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684553723598</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
