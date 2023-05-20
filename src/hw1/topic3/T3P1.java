@@ -5,5 +5,5 @@ package hw1.topic3;
     this table and then use a static block to initialize this table with some records
  */
 public class T3P1 {
-
+    
 }

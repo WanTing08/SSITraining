@@ -31,7 +31,14 @@ public static void main(String[] args) {
 
 4) Given a list of string array, combine them into one string sentence, return the string sentence
 ```java
-
+public static void main(String[] args) {
+    String[] s = {"wwt", "likes", "hotpot"};
+    StringBuilder sb = new StringBuilder();
+    for (String i : s) {
+        sb.append(i).append(" ");
+    }
+    System.out.println(sb.toString().trim());
+}
 ```
 
 ## Topic: final
@@ -57,7 +64,6 @@ public final class MyClass {
     }
 }
 ```
-
 ## Topic: Static
 
 Problems:
