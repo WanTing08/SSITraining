@@ -1,7 +1,7 @@
-## Topic: Serializable
-Problems: Define a “Employee” POJO class and make it serializable
+package hw2.topic1_serializable;
 
-```java
+import java.io.Serializable;
+
 public class Employee implements Serializable{
     private String name;
     private int age;
@@ -27,6 +27,3 @@ public class Employee implements Serializable{
         this.age = age;
     }
 }
-```
-
-## Topic: Exception Handling
