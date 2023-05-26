@@ -1,6 +1,5 @@
-package hw1.topic3;
+package hw1.topic3_static;
 
-import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 

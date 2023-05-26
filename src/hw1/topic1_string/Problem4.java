@@ -1,4 +1,4 @@
-package hw1.topic1;
+package hw1.topic1_string;
 
 /*
     Given a list of string array, combine them into one string sentence, return the string sentence

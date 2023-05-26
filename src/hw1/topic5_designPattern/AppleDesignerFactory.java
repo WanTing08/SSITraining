@@ -1,4 +1,4 @@
-package hw1.topic5;
+package hw1.topic5_designPattern;
 
 public class AppleDesignerFactory {
 

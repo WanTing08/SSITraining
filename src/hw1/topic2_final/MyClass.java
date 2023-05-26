@@ -1,4 +1,4 @@
-package hw1.topic2;
+package hw1.topic2_final;
 
 /*
     Define a final class and final method and final variable, modify the value of the variable in final method

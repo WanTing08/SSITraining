@@ -1,4 +1,4 @@
-package hw1.topic1;
+package hw1.topic1_string;
 
 /*
     Given two strings, compare if these two strings are equal by comparing each character

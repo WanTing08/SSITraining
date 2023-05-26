@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90691b1c-edec-43f8-952d-ef0d7ff9d2a2" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/hw1/topic5/AppleDesignerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/hw2.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Note/hw1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Note/hw1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw1/topic3/BookSeller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw1/topic3/BookSeller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw1/topic1/Problem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw1/topic1_string/Problem1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw1/topic1/Problem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw1/topic1_string/Problem2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw1/topic1/Problem3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw1/topic1_string/Problem3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw1/topic1/Problem4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw1/topic1_string/Problem4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw1/topic2/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw1/topic2_final/MyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw1/topic3/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw1/topic3_static/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw1/topic3/BookSeller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw1/topic3_static/BookSeller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw1/topic5/AppleDesignerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw1/topic5_designPattern/AppleDesignerFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,27 +41,27 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Problem4">
     <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw1.topic2.MyClass" />
+      <option name="MAIN_CLASS_NAME" value="hw1.topic2_final.MyClass" />
       <module name="SSITraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw1.topic2.*" />
+          <option name="PATTERN" value="hw1.topic2_final.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,11 +70,11 @@
       </method>
     </configuration>
     <configuration name="Problem1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw1.topic1.Problem1" />
+      <option name="MAIN_CLASS_NAME" value="hw1.topic1_string.Problem1" />
       <module name="SSITraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw1.topic1.*" />
+          <option name="PATTERN" value="hw1.topic1_string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,11 +83,11 @@
       </method>
     </configuration>
     <configuration name="Problem2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw1.topic1.Problem2" />
+      <option name="MAIN_CLASS_NAME" value="hw1.topic1_string.Problem2" />
       <module name="SSITraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw1.topic1.*" />
+          <option name="PATTERN" value="hw1.topic1_string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,11 +96,11 @@
       </method>
     </configuration>
     <configuration name="Problem3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw1.topic1.Problem3" />
+      <option name="MAIN_CLASS_NAME" value="hw1.topic1_string.Problem3" />
       <module name="SSITraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw1.topic1.*" />
+          <option name="PATTERN" value="hw1.topic1_string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +109,11 @@
       </method>
     </configuration>
     <configuration name="Problem4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw1.topic1.Problem4" />
+      <option name="MAIN_CLASS_NAME" value="hw1.topic1_string.Problem4" />
       <module name="SSITraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw1.topic1.*" />
+          <option name="PATTERN" value="hw1.topic1_string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,7 +139,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684352863401</updated>
-      <workItem from="1684352864857" duration="23499000" />
+      <workItem from="1684352864857" duration="23858000" />
+      <workItem from="1684956528962" duration="2454000" />
     </task>
     <task id="LOCAL-00001" summary="created a new repo">
       <created>1684353013690</created>
@@ -177,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684553723598</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update">
+      <created>1684557356440</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684557356440</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

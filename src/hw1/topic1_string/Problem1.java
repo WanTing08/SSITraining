@@ -1,4 +1,4 @@
-package hw1.topic1;
+package hw1.topic1_string;
 
 /*
     Given string “Algorithms”, return  “go” and “Algo” using substring
