@@ -35,6 +35,11 @@ Problems:
 
 Define two exceptions “CardTypeException” and “AddressException”. Create a separate class “ExceptionHandler” which contains one method “handleException”. The method takes input of cardType and address. If cardType is “AMEX”, throw CardTypeException. If address is outside US, return AddressException, for other errors, just return generic exception. Your exception should be caught and you should display message to tell which exception is returned.
 
+```java
+
+```
+
+
 ## Topic: Java 8
 Problems:
 
@@ -198,7 +203,35 @@ public class main {
 2. Use functional interface to implement Java 8 stream.map() function. Define a “MyStream” class containing a functional interface and a static method “MyMap”.
 In main method, test your code by calling: MyStream.MyMap(list, o -> o *3) to multiple each element in the “list” by 3.
 
+```java
+public class MyStream {
+    @FunctionalInterface
+    interface MyFunction<I, O>{
+        O apply(I i);
+    }
+
+    static <I, O> List<O> myMap(List<I> list, MyFunction<I, O> myFunction){
+        List<O> result = new ArrayList<>();
+        for(I i : list){
+            O mapped = myFunction.apply(i);
+            result.add(mapped);
+        }
+        return result;
+    }
+
+    public static void main(String[] args) {
+        List<Integer> list = new ArrayList<>();
+        list.add(1);
+        list.add(2);
+        list.add(3);
+
+        List<Integer> mapped = myMap(list, o -> o * 3);
+        System.out.println(mapped);
+    }
+}
+```
 3. "walabcwalexywalxzsfwalmx”  -- replace "wal" with "sams"
+
 
 4. "Eclipse eclipse Eclipse eclipse amc clip ECLIPSE" – count the occurrence of each unique word (ignore case), return result as a map. For example (eclipse->5, amc->1, clip->1)
 

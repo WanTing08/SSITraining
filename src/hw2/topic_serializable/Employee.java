@@ -1,4 +1,4 @@
-package hw2.topic1_serializable;
+package hw2.topic_serializable;
 
 import java.io.Serializable;
 
