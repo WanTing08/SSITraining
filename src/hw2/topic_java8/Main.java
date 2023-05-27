@@ -1,6 +1,6 @@
 package hw2.topic_java8;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         VisaCard visaCard = new VisaCard("Wanting Wang", "441798761342", 1000.0, "VisaCard");
         MasterCard masterCard = new MasterCard("Taylor Swift", "891722910523", 2000.0, "MasterCard");

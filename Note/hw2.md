@@ -188,7 +188,7 @@ public class MasterCard implements CreditCard {
 }
 ```
 ```java
-public class main {
+public class Main {
     public static void main(String[] args) {
         VisaCard visaCard = new VisaCard("Wanting Wang", "441798761342", 1000.0, "VisaCard");
         MasterCard masterCard = new MasterCard("Taylor Swift", "891722910523", 2000.0, "MasterCard");
@@ -231,7 +231,12 @@ public class MyStream {
 }
 ```
 3. "walabcwalexywalxzsfwalmx”  -- replace "wal" with "sams"
-
+```java
+public static void main(String[] args) {
+    String s = "walabcwalexywalxzsfwalmx";
+    System.out.println(s.replace("wal", "sams"));
+}
+```
 
 4. "Eclipse eclipse Eclipse eclipse amc clip ECLIPSE" – count the occurrence of each unique word (ignore case), return result as a map. For example (eclipse->5, amc->1, clip->1)
 
