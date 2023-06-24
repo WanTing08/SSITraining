@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SSITraining.iml" filepath="$PROJECT_DIR$/SSITraining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hw4/hw4.iml" filepath="$PROJECT_DIR$/../hw4/hw4.iml" />
     </modules>
   </component>
 </project>

@@ -113,4 +113,27 @@ FROM employee e
 WHERE DATE_FORMAT(e.DateOfJoining, '%M') = 'January';
 ```
 
-## 
+## Spring
+
+Write a document Service
+Implement APIs so that users can create/delete/update/list/get document(s). Please follow RESTFUL API design for http method, url path and return code.
+
+A document class will looks like:
+```java
+class Document{
+Integer id;
+String content;
+}
+```
+
+
+Additional requirements:
+
+1. Create API should handle the already existing error, and return proper http code.
+
+2. Get/Delete/Update API should handle the not exist error, and return proper http code.
+
+3. Use Controller/Service/DAO to separate the logic. In DAO, simply use a HashMap to store the document data.
+
+4. For Create API, the controller should only accept json http content and return proper http code if not json.
+
